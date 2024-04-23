@@ -84,10 +84,10 @@ After successful deployment, you can invoke your Lambda functions using AWS Lamb
 
 You can orchestrate several functions with lambda step functions machine, using lambda invoke:
 
-![step_function](/img/state_machines.png)
+![step_function](/img/building_steps.png)
 
 Finally you can pass the payload and test the pipeline:
 
-![testing](img/testing.png)
+![testing](img/Three_steps_functions.png)
 
 
