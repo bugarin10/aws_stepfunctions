@@ -88,6 +88,6 @@ You can orchestrate several functions with lambda step functions machine, using 
 
 Finally you can pass the payload and test the pipeline:
 
-![testing](img/Three_steps_functions.png)
+![testing](img/Three_step_functions.png)
 
 
